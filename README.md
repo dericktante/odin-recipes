@@ -25,4 +25,7 @@ Through this project, I practiced:
 -Include more recipes
 -Add interctivity with Javascript later in the curriculum
 
+## Live Demo
+[View the project here](https://dericktante.github.io/odin-recipes)
+
 This project is part of [The Odin Project] (https://www.theodinproject.com/) Foundations course.
